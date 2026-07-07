@@ -1,0 +1,16 @@
+{
+  "name": "Tático BM-RS",
+  "short_name": "Tático BM",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#121212",
+  "theme_color": "#0b4a2e",
+  "description": "Aplicativo de apoio operacional para a Brigada Militar do Rio Grande do Sul",
+  "icons": [
+    {
+      "src": "icon.jpg",
+      "sizes": "192x192 512x512",
+      "type": "image/jpeg"
+    }
+  ]
+}
